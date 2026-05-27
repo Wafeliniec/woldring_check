@@ -17,7 +17,9 @@ jobs:
             exit 1
           fi
 
-          curl -i \
+          echo "Webhook secret is set."
+
+          curl --fail-with-body -i \
             -H "Content-Type: application/json" \
             -d '{"content": "test from GitHub Actions apartment bot"}' \
             "$DISCORD_WEBHOOK_URL"
