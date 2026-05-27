@@ -8,63 +8,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Diagnose Discord webhook secret
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: |
-          python3 - <<'PY'
-          import os
-          from urllib.parse import urlparse
-
-          raw = os.environ.get("DISCORD_WEBHOOK_URL", "")
-          stripped = raw.strip()
-
-          print("Secret exists:", bool(raw))
-          print("Raw length:", len(raw))
-          print("Stripped length:", len(stripped))
-          print("Starts with https://discord.com/api/webhooks/:", stripped.startswith("https://discord.com/api/webhooks/"))
-
-          parsed = urlparse(stripped)
-          print("Scheme:", parsed.scheme)
-          print("Domain:", parsed.netloc)
-          print("Path parts count:", len([p for p in parsed.path.split("/") if p]))
-
-          if raw != stripped:
-              print("Problem: secret has leading/trailing whitespace or newline.")
-
-          if not stripped:
-              raise SystemExit("DISCORD_WEBHOOK_URL secret is empty or missing.")
-
-          if not stripped.startswith("https://discord.com/api/webhooks/"):
-              raise SystemExit("Secret is not a raw Discord webhook URL.")
-
-          parts = [p for p in parsed.path.split("/") if p]
-          if parsed.scheme != "https" or parsed.netloc != "discord.com" or len(parts) < 4:
-              raise SystemExit("Secret does not parse like a Discord webhook URL.")
+      - name: Install requests
+        run: pip install requests
 
       - name: Send Discord test message
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
           python3 - <<'PY'
-          import json
           import os
-          import urllib.request
+          import requests
 
-          url = os.environ["DISCORD_WEBHOOK_URL"].strip()
+          url = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
 
-          data = json.dumps({
-              "content": "test from GitHub Actions apartment bot"
-          }).encode("utf-8")
+          print("Webhook exists:", bool(url))
+          print("Starts correctly:", url.startswith("https://discord.com/api/webhooks/"))
 
-          request = urllib.request.Request(
+          if not url:
+              raise SystemExit("DISCORD_WEBHOOK_URL is empty or missing")
+
+          response = requests.post(
               url,
-              data=data,
-              headers={"Content-Type": "application/json"},
-              method="POST",
+              json={"content": "test from GitHub Actions apartment bot"},
+              headers={"User-Agent": "woldring-apartment-bot/1.0"},
+              timeout=30,
           )
 
-          with urllib.request.urlopen(request, timeout=30) as response:
-              print("Status:", response.status)
-              print("Discord accepted the message.")
+          print("Status:", response.status_code)
+          print("Response:", response.text)
+          response.raise_for_status()
           PY
