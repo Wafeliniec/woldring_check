@@ -1,5 +1,7 @@
 {
-  "known_active_ids": [],
+  "known_active_ids": [
+    "test-listing"
+  ],
   "last_seen": {
     "schoolholm-26-21": {
       "title": "Schoolholm 26-21",
@@ -4616,6 +4618,14 @@
       "availability": "Niet beschikbaar",
       "price": null,
       "surface": "23,00m²"
+    },
+    "test-listing": {
+      "title": "TEST LISTING - ignore",
+      "url": "https://woldringverhuur.nl/test/",
+      "available": true,
+      "availability": "Per direct beschikbaar",
+      "price": "€ 999 per maand",
+      "surface": "42 m²"
     }
   }
 }
