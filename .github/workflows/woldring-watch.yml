@@ -36,7 +36,7 @@ jobs:
       - name: Run apartment check
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          WOLDRING_TEST_FAKE: "1"
+          WOLDRING_TEST_FAKE: "0"
         run: python woldring_check_once.py
 
       - name: Save state file
