@@ -8,8 +8,6 @@
     "friesestraatweg-163-03",
     "friesestraatweg-163-15",
     "friesestraatweg-173-01",
-    "haddingestraat-39",
-    "oosterstraat-19a-03",
     "schoolholm-26-21"
   ],
   "last_seen": {
@@ -88,26 +86,10 @@
     "haddingestraat-39": {
       "title": "Haddingestraat 39–",
       "url": "https://woldringverhuur.nl/haddingestraat-39/",
-      "available": true,
+      "available": false,
       "availability": "Beschikbaar per: 01-06-2026",
       "price": "€1.056,42 per maand",
       "surface": "33,00m²"
-    },
-    "oosterstraat-19a-03": {
-      "title": "Oosterstraat 19A-03",
-      "url": "https://woldringverhuur.nl/oosterstraat-19a-03/",
-      "available": true,
-      "availability": "Beschikbaar per: 01-06-2026",
-      "price": "€786,66 per maand",
-      "surface": "26,00m²"
-    },
-    "soephuisstraatje-10-d": {
-      "title": "Soephuisstraatje 10-D",
-      "url": "https://woldringverhuur.nl/soephuisstraatje-10-d/",
-      "available": false,
-      "availability": "Per direct beschikbaar",
-      "price": "€1.540,00 per maand",
-      "surface": "78,00m²"
     },
     "schoolholm-24": {
       "title": "Schoolholm 24",
@@ -197,6 +179,14 @@
       "price": "€187,13",
       "surface": "31,00m²"
     },
+    "oosterstraat-19a-03": {
+      "title": "Oosterstraat 19A-03",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€173,34",
+      "surface": "26,00m²"
+    },
     "oosterstraat-19a-18": {
       "title": "Oosterstraat 19A-18",
       "url": "https://woldringverhuur.nl/oosterstraat-19a-18/",
@@ -228,6 +218,14 @@
       "availability": "Niet beschikbaar",
       "price": "€162,00",
       "surface": "21,00m²"
+    },
+    "soephuisstraatje-10-d": {
+      "title": "Soephuisstraatje 10-D",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-10-d/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€110,00",
+      "surface": "78,00m²"
     },
     "damsterdiep-45": {
       "title": "Damsterdiep 45",
