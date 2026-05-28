@@ -141,30 +141,46 @@ def parse_surface(text: str) -> str | None:
 def parse_availability(text: str) -> str:
     if "Per direct beschikbaar" in text:
         return "Per direct beschikbaar"
+    if "Available immediately" in text:
+        return "Available immediately"
+
     match = re.search(r"Beschikbaar per:\s*\d{2}-\d{2}-\d{4}", text)
     if match:
         return match.group(0)
+
+    match = re.search(r"Available from:\s*\d{2}-\d{2}-\d{4}", text)
+    if match:
+        return match.group(0)
+
     if "Binnenkort beschikbaar" in text:
         return "Binnenkort beschikbaar"
     if "Niet beschikbaar" in text:
         return "Niet beschikbaar"
+    if "Not available" in text:
+        return "Not available"
+
     return "Onbekend"
 
 
 def is_actionable_available(text: str) -> bool:
+    # Woldring sometimes still includes "Inschrijving gesloten" in the listing text,
+    # even when the card shows "Beschikbaar per". For our alerting purpose, we care
+    # about anything newly marked as available.
     availableish = (
-            "Per direct beschikbaar" in text
-            or "Beschikbaar per:" in text
-            or "Binnenkort beschikbaar" in text
+        "Per direct beschikbaar" in text
+        or "Beschikbaar per:" in text
+        or "Available from:" in text
+        or "Binnenkort beschikbaar" in text
     )
 
-    closed_or_useless = (
-            "Niet beschikbaar" in text
-            or "Verhuurd" in text
-            or "Inschrijving gesloten" in text
+    definitely_unavailable = (
+        "Niet beschikbaar" in text
+        or "Not available" in text
+        or "Verhuurd" in text
+        or "Rented" in text
     )
 
-    return availableish and not closed_or_useless
+    return availableish and not definitely_unavailable
 
 
 def parse_listings(html: str) -> list[dict]:
