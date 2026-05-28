@@ -1,0 +1,4633 @@
+{
+  "known_active_ids": [
+    "friesestraatweg-145-23",
+    "friesestraatweg-147-35",
+    "friesestraatweg-149-47",
+    "friesestraatweg-157-35",
+    "friesestraatweg-159-29",
+    "friesestraatweg-163-03",
+    "friesestraatweg-163-15",
+    "friesestraatweg-173-01",
+    "haddingestraat-39",
+    "oosterstraat-19a-03",
+    "schoolholm-26-21"
+  ],
+  "last_seen": {
+    "friesestraatweg-163-03": {
+      "title": "Friesestraatweg 163-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-03/",
+      "available": true,
+      "availability": "Beschikbaar per: 16-07-2026",
+      "price": "€987,78 per maand",
+      "surface": "32,00m²"
+    },
+    "schoolholm-26-21": {
+      "title": "Schoolholm 26-21",
+      "url": "https://woldringverhuur.nl/schoolholm-26-21/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-06-2026",
+      "price": "€1.049,10 per maand",
+      "surface": "22,00m²"
+    },
+    "friesestraatweg-145-23": {
+      "title": "Friesestraatweg 145-23",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-23/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-06-2026",
+      "price": "€1.166,27 per maand",
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-149-47": {
+      "title": "Friesestraatweg 149-47",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-47/",
+      "available": true,
+      "availability": "Beschikbaar per: 16-07-2026",
+      "price": "€1.104,46 per maand",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-159-29": {
+      "title": "Friesestraatweg 159-29",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-29/",
+      "available": true,
+      "availability": "Per direct beschikbaar",
+      "price": "€1.450,00 per maand",
+      "surface": "79,00m²"
+    },
+    "friesestraatweg-163-15": {
+      "title": "Friesestraatweg 163-15",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-15/",
+      "available": true,
+      "availability": "Beschikbaar per: 16-06-2026",
+      "price": "€946,61 per maand",
+      "surface": "29,00m²"
+    },
+    "friesestraatweg-147-35": {
+      "title": "Friesestraatweg 147-35",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-35/",
+      "available": true,
+      "availability": "Beschikbaar per: 16-06-2026",
+      "price": "€1.015,22 per maand",
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-157-35": {
+      "title": "Friesestraatweg 157-35",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-35/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-07-2026",
+      "price": "€1.475,00 per maand",
+      "surface": "68,00m²"
+    },
+    "friesestraatweg-173-01": {
+      "title": "Friesestraatweg 173-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-173-01/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-07-2026",
+      "price": "€1.630,00 per maand",
+      "surface": "103,00m²"
+    },
+    "haddingestraat-39": {
+      "title": "Haddingestraat 39–",
+      "url": "https://woldringverhuur.nl/haddingestraat-39/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-06-2026",
+      "price": "€1.056,42 per maand",
+      "surface": "33,00m²"
+    },
+    "oosterstraat-19a-03": {
+      "title": "Oosterstraat 19A-03",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-03/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-06-2026",
+      "price": "€786,66 per maand",
+      "surface": "26,00m²"
+    },
+    "soephuisstraatje-10-d": {
+      "title": "Soephuisstraatje 10-D",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-10-d/",
+      "available": false,
+      "availability": "Per direct beschikbaar",
+      "price": "€1.540,00 per maand",
+      "surface": "78,00m²"
+    },
+    "schoolholm-24": {
+      "title": "Schoolholm 24",
+      "url": "https://woldringverhuur.nl/schoolholm-24/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€60,00",
+      "surface": "85,00m²"
+    },
+    "friesestraatweg-145-19": {
+      "title": "Friesestraatweg 145-19",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-19/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€85,00",
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-147-45": {
+      "title": "Friesestraatweg 147-45",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-45/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-153-20": {
+      "title": "Friesestraatweg 153-20",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-153-25": {
+      "title": "Friesestraatweg 153-25",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-25/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-149-30": {
+      "title": "Friesestraatweg 149-30",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-30/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€85,00",
+      "surface": "32,00m²"
+    },
+    "schoolholm-26-08": {
+      "title": "Schoolholm 26-08",
+      "url": "https://woldringverhuur.nl/schoolholm-26-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€160,48",
+      "surface": "22,00m²"
+    },
+    "havenstraat-5": {
+      "title": "Havenstraat 5–",
+      "url": "https://woldringverhuur.nl/havenstraat-5/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€76,65",
+      "surface": "26,00m²"
+    },
+    "soephuisstraatje-18-24": {
+      "title": "Soephuisstraatje 18-24",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-24/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€188,80",
+      "surface": "41,00m²"
+    },
+    "schoolholm-26-19": {
+      "title": "Schoolholm 26-19",
+      "url": "https://woldringverhuur.nl/schoolholm-26-19/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€166,48",
+      "surface": "19,00m²"
+    },
+    "jozef-israelsstraat-14-07": {
+      "title": "Jozef Israëlsstraat 14-07",
+      "url": "https://woldringverhuur.nl/jozef-israelsstraat-14-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€187,13",
+      "surface": "31,00m²"
+    },
+    "oosterstraat-19a-18": {
+      "title": "Oosterstraat 19A-18",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-18/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€153,09",
+      "surface": "25,00m²"
+    },
+    "soephuisstraatje-18-16": {
+      "title": "Soephuisstraatje 18-16",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€184,97",
+      "surface": "21,00m²"
+    },
+    "soephuisstraatje-18-12": {
+      "title": "Soephuisstraatje 18-12",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€171,94",
+      "surface": "32,00m²"
+    },
+    "soephuisstraatje-18-30": {
+      "title": "Soephuisstraatje 18-30",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-30/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€162,00",
+      "surface": "21,00m²"
+    },
+    "damsterdiep-45": {
+      "title": "Damsterdiep 45",
+      "url": "https://woldringverhuur.nl/damsterdiep-45/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "67,00m²"
+    },
+    "damsterdiep-45-b": {
+      "title": "Damsterdiep 45-B",
+      "url": "https://woldringverhuur.nl/damsterdiep-45-b/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "77,00m²"
+    },
+    "damsterdiep-45-a": {
+      "title": "Damsterdiep 45-A",
+      "url": "https://woldringverhuur.nl/damsterdiep-45-a/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€55,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-173-00": {
+      "title": "Friesestraatweg 173-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-173-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "50,00m²"
+    },
+    "friesestraatweg-171-04": {
+      "title": "Friesestraatweg 171-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-171-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "27,00m²"
+    },
+    "friesestraatweg-171-03": {
+      "title": "Friesestraatweg 171-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-171-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "29,00m²"
+    },
+    "friesestraatweg-171-02": {
+      "title": "Friesestraatweg 171-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-171-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-171-01": {
+      "title": "Friesestraatweg 171-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-171-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "31,00m²"
+    },
+    "friesestraatweg-171-00": {
+      "title": "Friesestraatweg 171-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-171-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-169-05": {
+      "title": "Friesestraatweg 169-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-169-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-169-04": {
+      "title": "Friesestraatweg 169-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-169-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-169-03": {
+      "title": "Friesestraatweg 169-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-169-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-169-02": {
+      "title": "Friesestraatweg 169-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-169-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "50,00m²"
+    },
+    "friesestraatweg-169-01": {
+      "title": "Friesestraatweg 169-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-169-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "50,00m²"
+    },
+    "friesestraatweg-169-00": {
+      "title": "Friesestraatweg 169-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-169-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "80,00m²"
+    },
+    "friesestraatweg-167-09": {
+      "title": "Friesestraatweg 167-09",
+      "url": "https://woldringverhuur.nl/friesestraatweg-167-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€100,00",
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-167-08": {
+      "title": "Friesestraatweg 167-08",
+      "url": "https://woldringverhuur.nl/friesestraatweg-167-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-167-07": {
+      "title": "Friesestraatweg 167-07",
+      "url": "https://woldringverhuur.nl/friesestraatweg-167-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-167-06": {
+      "title": "Friesestraatweg 167-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-167-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-167-05": {
+      "title": "Friesestraatweg 167-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-167-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-167-04": {
+      "title": "Friesestraatweg 167-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-167-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-167-03": {
+      "title": "Friesestraatweg 167-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-167-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "29,00m²"
+    },
+    "friesestraatweg-167-02": {
+      "title": "Friesestraatweg 167-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-167-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "52,00m²"
+    },
+    "friesestraatweg-167-01": {
+      "title": "Friesestraatweg 167-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-167-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-167-00": {
+      "title": "Friesestraatweg 167-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-167-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "40,00m²"
+    },
+    "friesestraatweg-165-13": {
+      "title": "Friesestraatweg 165-13",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-165-12": {
+      "title": "Friesestraatweg 165-12",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-165-11": {
+      "title": "Friesestraatweg 165-11",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-165-10": {
+      "title": "Friesestraatweg 165-10",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-165-09": {
+      "title": "Friesestraatweg 165-09",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "62,50m²"
+    },
+    "friesestraatweg-165-08": {
+      "title": "Friesestraatweg 165-08",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-165-07": {
+      "title": "Friesestraatweg 165-07",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "29,00m²"
+    },
+    "friesestraatweg-165-06": {
+      "title": "Friesestraatweg 165-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-165-05": {
+      "title": "Friesestraatweg 165-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "34,00m²"
+    },
+    "friesestraatweg-165-04": {
+      "title": "Friesestraatweg 165-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-165-03": {
+      "title": "Friesestraatweg 165-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-165-02": {
+      "title": "Friesestraatweg 165-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "29,00m²"
+    },
+    "friesestraatweg-165-01": {
+      "title": "Friesestraatweg 165-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€100,00",
+      "surface": "44,00m²"
+    },
+    "friesestraatweg-165-00": {
+      "title": "Friesestraatweg 165-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-163-17": {
+      "title": "Friesestraatweg 163-17",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "120,00m²"
+    },
+    "friesestraatweg-163-16": {
+      "title": "Friesestraatweg 163-16",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-163-14": {
+      "title": "Friesestraatweg 163-14",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-163-13": {
+      "title": "Friesestraatweg 163-13",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-163-12": {
+      "title": "Friesestraatweg 163-12",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-163-11": {
+      "title": "Friesestraatweg 163-11",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-163-10": {
+      "title": "Friesestraatweg 163-10",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-163-09": {
+      "title": "Friesestraatweg 163-09",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-163-08": {
+      "title": "Friesestraatweg 163-08",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-163-07": {
+      "title": "Friesestraatweg 163-07",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-163-06": {
+      "title": "Friesestraatweg 163-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-163-05": {
+      "title": "Friesestraatweg 163-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-163-04": {
+      "title": "Friesestraatweg 163-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "29,00m²"
+    },
+    "friesestraatweg-163-02": {
+      "title": "Friesestraatweg 163-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-163-01": {
+      "title": "Friesestraatweg 163-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-163-00": {
+      "title": "Friesestraatweg 163-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-163-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-23": {
+      "title": "Friesestraatweg 161-23",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-23/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "67,00m²"
+    },
+    "friesestraatweg-161-22": {
+      "title": "Friesestraatweg 161-22",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-22/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-161-21": {
+      "title": "Friesestraatweg 161-21",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-21/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-20": {
+      "title": "Friesestraatweg 161-20",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-19": {
+      "title": "Friesestraatweg 161-19",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-19/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-18": {
+      "title": "Friesestraatweg 161-18",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-18/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-161-17": {
+      "title": "Friesestraatweg 161-17",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-161-16": {
+      "title": "Friesestraatweg 161-16",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-15": {
+      "title": "Friesestraatweg 161-15",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-15/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-14": {
+      "title": "Friesestraatweg 161-14",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-13": {
+      "title": "Friesestraatweg 161-13",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-12": {
+      "title": "Friesestraatweg 161-12",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-11": {
+      "title": "Friesestraatweg 161-11",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "51,00m²"
+    },
+    "friesestraatweg-161-10": {
+      "title": "Friesestraatweg 161-10",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "59,00m²"
+    },
+    "friesestraatweg-161-09": {
+      "title": "Friesestraatweg 161-09",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-08": {
+      "title": "Friesestraatweg 161-08",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-07": {
+      "title": "Friesestraatweg 161-07",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-06": {
+      "title": "Friesestraatweg 161-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-161-05": {
+      "title": "Friesestraatweg 161-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-161-04": {
+      "title": "Friesestraatweg 161-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-03": {
+      "title": "Friesestraatweg 161-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-02": {
+      "title": "Friesestraatweg 161-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "29,00m²"
+    },
+    "friesestraatweg-161-01": {
+      "title": "Friesestraatweg 161-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-161-00": {
+      "title": "Friesestraatweg 161-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-161-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "46,00m²"
+    },
+    "friesestraatweg-159-31": {
+      "title": "Friesestraatweg 159-31",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-31/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-159-30": {
+      "title": "Friesestraatweg 159-30",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-30/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "71,00m²"
+    },
+    "friesestraatweg-159-28": {
+      "title": "Friesestraatweg 159-28",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-28/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-159-27": {
+      "title": "Friesestraatweg 159-27",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-27/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-159-26": {
+      "title": "Friesestraatweg 159-26",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-26/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-25": {
+      "title": "Friesestraatweg 159-25",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-25/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-24": {
+      "title": "Friesestraatweg 159-24",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-24/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-23": {
+      "title": "Friesestraatweg 159-23",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-23/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-159-22": {
+      "title": "Friesestraatweg 159-22",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-22/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-159-21": {
+      "title": "Friesestraatweg 159-21",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-21/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-20": {
+      "title": "Friesestraatweg 159-20",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-19": {
+      "title": "Friesestraatweg 159-19",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-19/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-18": {
+      "title": "Friesestraatweg 159-18",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-18/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-17": {
+      "title": "Friesestraatweg 159-17",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-16": {
+      "title": "Friesestraatweg 159-16",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-15": {
+      "title": "Friesestraatweg 159-15",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-15/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "44,00m²"
+    },
+    "friesestraatweg-159-14": {
+      "title": "Friesestraatweg 159-14",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-159-13": {
+      "title": "Friesestraatweg 159-13",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-159-12": {
+      "title": "Friesestraatweg 159-12",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-11": {
+      "title": "Friesestraatweg 159-11",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-10": {
+      "title": "Friesestraatweg 159-10",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-09": {
+      "title": "Friesestraatweg 159-09",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-08": {
+      "title": "Friesestraatweg 159-08",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-159-07": {
+      "title": "Friesestraatweg 159-07",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-159-06": {
+      "title": "Friesestraatweg 159-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-05": {
+      "title": "Friesestraatweg 159-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-04": {
+      "title": "Friesestraatweg 159-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-03": {
+      "title": "Friesestraatweg 159-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-02": {
+      "title": "Friesestraatweg 159-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "29,00m²"
+    },
+    "friesestraatweg-159-01": {
+      "title": "Friesestraatweg 159-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-159-00": {
+      "title": "Friesestraatweg 159-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "50,00m²"
+    },
+    "friesestraatweg-157-38": {
+      "title": "Friesestraatweg 157-38",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-38/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-157-37": {
+      "title": "Friesestraatweg 157-37",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-37/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-157-36": {
+      "title": "Friesestraatweg 157-36",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-36/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-157-34": {
+      "title": "Friesestraatweg 157-34",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-34/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "79,00m²"
+    },
+    "friesestraatweg-157-33": {
+      "title": "Friesestraatweg 157-33",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-33/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-157-32": {
+      "title": "Friesestraatweg 157-32",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-32/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-157-31": {
+      "title": "Friesestraatweg 157-31",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-31/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-157-30": {
+      "title": "Friesestraatweg 157-30",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-30/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-29": {
+      "title": "Friesestraatweg 157-29",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-29/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-28": {
+      "title": "Friesestraatweg 157-28",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-28/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-27": {
+      "title": "Friesestraatweg 157-27",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-27/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-157-26": {
+      "title": "Friesestraatweg 157-26",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-26/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-157-25": {
+      "title": "Friesestraatweg 157-25",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-25/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-24": {
+      "title": "Friesestraatweg 157-24",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-24/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-23": {
+      "title": "Friesestraatweg 157-23",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-23/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-22": {
+      "title": "Friesestraatweg 157-22",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-22/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-21": {
+      "title": "Friesestraatweg 157-21",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-21/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-20": {
+      "title": "Friesestraatweg 157-20",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-19": {
+      "title": "Friesestraatweg 157-19",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-19/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "44,00m²"
+    },
+    "friesestraatweg-157-18": {
+      "title": "Friesestraatweg 157-18",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-18/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-157-17": {
+      "title": "Friesestraatweg 157-17",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-157-16": {
+      "title": "Friesestraatweg 157-16",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-157-15": {
+      "title": "Friesestraatweg 157-15",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-15/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-157-14": {
+      "title": "Friesestraatweg 157-14",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-157-13": {
+      "title": "Friesestraatweg 157-13",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-12": {
+      "title": "Friesestraatweg 157-12",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-11": {
+      "title": "Friesestraatweg 157-11",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-10": {
+      "title": "Friesestraatweg 157-10",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-157-09": {
+      "title": "Friesestraatweg 157-09",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "51,00m²"
+    },
+    "friesestraatweg-157-08": {
+      "title": "Friesestraatweg 157-08",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-157-07": {
+      "title": "Friesestraatweg 157-07",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-06": {
+      "title": "Friesestraatweg 157-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-05": {
+      "title": "Friesestraatweg 157-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-04": {
+      "title": "Friesestraatweg 157-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-03": {
+      "title": "Friesestraatweg 157-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-02": {
+      "title": "Friesestraatweg 157-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-01": {
+      "title": "Friesestraatweg 157-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-157-00": {
+      "title": "Friesestraatweg 157-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-155-46": {
+      "title": "Friesestraatweg 155-46",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-46/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-155-45": {
+      "title": "Friesestraatweg 155-45",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-45/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-155-44": {
+      "title": "Friesestraatweg 155-44",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-44/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-155-43": {
+      "title": "Friesestraatweg 155-43",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-43/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-155-42": {
+      "title": "Friesestraatweg 155-42",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-42/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-155-41": {
+      "title": "Friesestraatweg 155-41",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-41/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-155-40": {
+      "title": "Friesestraatweg 155-40",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-40/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-155-39": {
+      "title": "Friesestraatweg 155-39",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-39/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-155-38": {
+      "title": "Friesestraatweg 155-38",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-38/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-155-37": {
+      "title": "Friesestraatweg 155-37",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-37/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-155-36": {
+      "title": "Friesestraatweg 155-36",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-36/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-35": {
+      "title": "Friesestraatweg 155-35",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-35/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-34": {
+      "title": "Friesestraatweg 155-34",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-34/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "53,00m²"
+    },
+    "friesestraatweg-155-33": {
+      "title": "Friesestraatweg 155-33",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-33/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-155-32": {
+      "title": "Friesestraatweg 155-32",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-32/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-155-31": {
+      "title": "Friesestraatweg 155-31",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-31/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-155-30": {
+      "title": "Friesestraatweg 155-30",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-30/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-29": {
+      "title": "Friesestraatweg 155-29",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-29/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-28": {
+      "title": "Friesestraatweg 155-28",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-28/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-27": {
+      "title": "Friesestraatweg 155-27",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-27/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-26": {
+      "title": "Friesestraatweg 155-26",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-26/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-25": {
+      "title": "Friesestraatweg 155-25",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-25/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-24": {
+      "title": "Friesestraatweg 155-24",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-24/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "44,00m²"
+    },
+    "friesestraatweg-155-23": {
+      "title": "Friesestraatweg 155-23",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-23/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-155-22": {
+      "title": "Friesestraatweg 155-22",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-22/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-155-21": {
+      "title": "Friesestraatweg 155-21",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-21/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-155-20": {
+      "title": "Friesestraatweg 155-20",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "60,00m²"
+    },
+    "friesestraatweg-155-19": {
+      "title": "Friesestraatweg 155-19",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-19/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "70,00m²"
+    },
+    "friesestraatweg-155-18": {
+      "title": "Friesestraatweg 155-18",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-18/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-155-17": {
+      "title": "Friesestraatweg 155-17",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-155-16": {
+      "title": "Friesestraatweg 155-16",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-155-15": {
+      "title": "Friesestraatweg 155-15",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-15/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-14": {
+      "title": "Friesestraatweg 155-14",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-13": {
+      "title": "Friesestraatweg 155-13",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-12": {
+      "title": "Friesestraatweg 155-12",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-11": {
+      "title": "Friesestraatweg 155-11",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "34,00m²"
+    },
+    "friesestraatweg-155-10": {
+      "title": "Friesestraatweg 155-10",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "64,00m²"
+    },
+    "friesestraatweg-155-09": {
+      "title": "Friesestraatweg 155-09",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-155-08": {
+      "title": "Friesestraatweg 155-08",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-155-07": {
+      "title": "Friesestraatweg 155-07",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-06": {
+      "title": "Friesestraatweg 155-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-05": {
+      "title": "Friesestraatweg 155-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-04": {
+      "title": "Friesestraatweg 155-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-03": {
+      "title": "Friesestraatweg 155-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-02": {
+      "title": "Friesestraatweg 155-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-01": {
+      "title": "Friesestraatweg 155-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-155-00": {
+      "title": "Friesestraatweg 155-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-155-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-153-50": {
+      "title": "Friesestraatweg 153-50",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-50/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-153-49": {
+      "title": "Friesestraatweg 153-49",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-49/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-153-48": {
+      "title": "Friesestraatweg 153-48",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-48/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-153-47": {
+      "title": "Friesestraatweg 153-47",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-47/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-153-46": {
+      "title": "Friesestraatweg 153-46",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-46/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-153-45": {
+      "title": "Friesestraatweg 153-45",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-45/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-153-44": {
+      "title": "Friesestraatweg 153-44",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-44/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-153-43": {
+      "title": "Friesestraatweg 153-43",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-43/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-153-42": {
+      "title": "Friesestraatweg 153-42",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-42/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-153-41": {
+      "title": "Friesestraatweg 153-41",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-41/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-153-40": {
+      "title": "Friesestraatweg 153-40",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-40/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-39": {
+      "title": "Friesestraatweg 153-39",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-39/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-38": {
+      "title": "Friesestraatweg 153-38",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-38/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-37": {
+      "title": "Friesestraatweg 153-37",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-37/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "65,00m²"
+    },
+    "friesestraatweg-153-36": {
+      "title": "Friesestraatweg 153-36",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-36/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-153-35": {
+      "title": "Friesestraatweg 153-35",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-35/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-153-34": {
+      "title": "Friesestraatweg 153-34",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-34/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-153-33": {
+      "title": "Friesestraatweg 153-33",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-33/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-153-32": {
+      "title": "Friesestraatweg 153-32",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-32/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-31": {
+      "title": "Friesestraatweg 153-31",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-31/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€85,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-30": {
+      "title": "Friesestraatweg 153-30",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-30/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-29": {
+      "title": "Friesestraatweg 153-29",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-29/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-28": {
+      "title": "Friesestraatweg 153-28",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-28/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-27": {
+      "title": "Friesestraatweg 153-27",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-27/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-26": {
+      "title": "Friesestraatweg 153-26",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-26/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "44,00m²"
+    },
+    "friesestraatweg-153-24": {
+      "title": "Friesestraatweg 153-24",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-24/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-153-23": {
+      "title": "Friesestraatweg 153-23",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-23/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-153-22": {
+      "title": "Friesestraatweg 153-22",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-22/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "60,00m²"
+    },
+    "friesestraatweg-153-21": {
+      "title": "Friesestraatweg 153-21",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-21/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "71,00m²"
+    },
+    "friesestraatweg-153-19": {
+      "title": "Friesestraatweg 153-19",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-19/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-153-18": {
+      "title": "Friesestraatweg 153-18",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-18/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-153-17": {
+      "title": "Friesestraatweg 153-17",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-16": {
+      "title": "Friesestraatweg 153-16",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-15": {
+      "title": "Friesestraatweg 153-15",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-15/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-14": {
+      "title": "Friesestraatweg 153-14",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-13": {
+      "title": "Friesestraatweg 153-13",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "34,00m²"
+    },
+    "friesestraatweg-153-12": {
+      "title": "Friesestraatweg 153-12",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-11": {
+      "title": "Friesestraatweg 153-11",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-153-10": {
+      "title": "Friesestraatweg 153-10",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "52,00m²"
+    },
+    "friesestraatweg-153-09": {
+      "title": "Friesestraatweg 153-09",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-153-08": {
+      "title": "Friesestraatweg 153-08",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-153-07": {
+      "title": "Friesestraatweg 153-07",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-06": {
+      "title": "Friesestraatweg 153-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-05": {
+      "title": "Friesestraatweg 153-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-04": {
+      "title": "Friesestraatweg 153-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-03": {
+      "title": "Friesestraatweg 153-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-02": {
+      "title": "Friesestraatweg 153-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-01": {
+      "title": "Friesestraatweg 153-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-153-00": {
+      "title": "Friesestraatweg 153-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-151-54": {
+      "title": "Friesestraatweg 151-54",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-54/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-151-53": {
+      "title": "Friesestraatweg 151-53",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-53/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-151-52": {
+      "title": "Friesestraatweg 151-52",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-52/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-151-51": {
+      "title": "Friesestraatweg 151-51",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-51/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-151-50": {
+      "title": "Friesestraatweg 151-50",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-50/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-151-49": {
+      "title": "Friesestraatweg 151-49",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-49/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-48": {
+      "title": "Friesestraatweg 151-48",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-48/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-47": {
+      "title": "Friesestraatweg 151-47",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-47/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-46": {
+      "title": "Friesestraatweg 151-46",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-46/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-45": {
+      "title": "Friesestraatweg 151-45",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-45/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-44": {
+      "title": "Friesestraatweg 151-44",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-44/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-43": {
+      "title": "Friesestraatweg 151-43",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-43/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-42": {
+      "title": "Friesestraatweg 151-42",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-42/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-41": {
+      "title": "Friesestraatweg 151-41",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-41/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-40": {
+      "title": "Friesestraatweg 151-40",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-40/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "45,00m²"
+    },
+    "friesestraatweg-151-39": {
+      "title": "Friesestraatweg 151-39",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-39/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-151-38": {
+      "title": "Friesestraatweg 151-38",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-38/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-37": {
+      "title": "Friesestraatweg 151-37",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-37/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-36": {
+      "title": "Friesestraatweg 151-36",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-36/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-151-35": {
+      "title": "Friesestraatweg 151-35",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-35/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-151-34": {
+      "title": "Friesestraatweg 151-34",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-34/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-33": {
+      "title": "Friesestraatweg 151-33",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-33/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-32": {
+      "title": "Friesestraatweg 151-32",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-32/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-31": {
+      "title": "Friesestraatweg 151-31",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-31/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-30": {
+      "title": "Friesestraatweg 151-30",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-30/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-29": {
+      "title": "Friesestraatweg 151-29",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-29/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-28": {
+      "title": "Friesestraatweg 151-28",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-28/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "44,00m²"
+    },
+    "friesestraatweg-151-27": {
+      "title": "Friesestraatweg 151-27",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-27/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-151-26": {
+      "title": "Friesestraatweg 151-26",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-26/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-151-25": {
+      "title": "Friesestraatweg 151-25",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-25/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-151-24": {
+      "title": "Friesestraatweg 151-24",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-24/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "60,00m²"
+    },
+    "friesestraatweg-151-23": {
+      "title": "Friesestraatweg 151-23",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-23/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "71,00m²"
+    },
+    "friesestraatweg-151-22": {
+      "title": "Friesestraatweg 151-22",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-22/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-21": {
+      "title": "Friesestraatweg 151-21",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-21/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-20": {
+      "title": "Friesestraatweg 151-20",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-19": {
+      "title": "Friesestraatweg 151-19",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-19/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-18": {
+      "title": "Friesestraatweg 151-18",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-18/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-17": {
+      "title": "Friesestraatweg 151-17",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-16": {
+      "title": "Friesestraatweg 151-16",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-15": {
+      "title": "Friesestraatweg 151-15",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-15/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "34,00m²"
+    },
+    "friesestraatweg-151-14": {
+      "title": "Friesestraatweg 151-14",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-13": {
+      "title": "Friesestraatweg 151-13",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-12": {
+      "title": "Friesestraatweg 151-12",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-11": {
+      "title": "Friesestraatweg 151-11",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-151-10": {
+      "title": "Friesestraatweg 151-10",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "52,00m²"
+    },
+    "friesestraatweg-151-09": {
+      "title": "Friesestraatweg 151-09",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-151-08": {
+      "title": "Friesestraatweg 151-08",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-151-07": {
+      "title": "Friesestraatweg 151-07",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-06": {
+      "title": "Friesestraatweg 151-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-05": {
+      "title": "Friesestraatweg 151-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-04": {
+      "title": "Friesestraatweg 151-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-03": {
+      "title": "Friesestraatweg 151-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-02": {
+      "title": "Friesestraatweg 151-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-01": {
+      "title": "Friesestraatweg 151-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-151-00": {
+      "title": "Friesestraatweg 151-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-151-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-149-55": {
+      "title": "Friesestraatweg 149-55",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-55/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-149-54": {
+      "title": "Friesestraatweg 149-54",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-54/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-149-53": {
+      "title": "Friesestraatweg 149-53",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-53/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-149-52": {
+      "title": "Friesestraatweg 149-52",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-52/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-149-51": {
+      "title": "Friesestraatweg 149-51",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-51/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-149-50": {
+      "title": "Friesestraatweg 149-50",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-50/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-149-49": {
+      "title": "Friesestraatweg 149-49",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-49/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-149-48": {
+      "title": "Friesestraatweg 149-48",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-48/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-149-46": {
+      "title": "Friesestraatweg 149-46",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-46/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-149-45": {
+      "title": "Friesestraatweg 149-45",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-45/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-44": {
+      "title": "Friesestraatweg 149-44",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-44/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-43": {
+      "title": "Friesestraatweg 149-43",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-43/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-42": {
+      "title": "Friesestraatweg 149-42",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-42/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-41": {
+      "title": "Friesestraatweg 149-41",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-41/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "45,00m²"
+    },
+    "friesestraatweg-149-40": {
+      "title": "Friesestraatweg 149-40",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-40/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-149-39": {
+      "title": "Friesestraatweg 149-39",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-39/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-149-38": {
+      "title": "Friesestraatweg 149-38",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-38/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-149-37": {
+      "title": "Friesestraatweg 149-37",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-37/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-149-36": {
+      "title": "Friesestraatweg 149-36",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-36/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-149-35": {
+      "title": "Friesestraatweg 149-35",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-35/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-34": {
+      "title": "Friesestraatweg 149-34",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-34/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-33": {
+      "title": "Friesestraatweg 149-33",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-33/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-32": {
+      "title": "Friesestraatweg 149-32",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-32/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-31": {
+      "title": "Friesestraatweg 149-31",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-31/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-29": {
+      "title": "Friesestraatweg 149-29",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-29/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "46,00m²"
+    },
+    "friesestraatweg-149-28": {
+      "title": "Friesestraatweg 149-28",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-28/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-149-27": {
+      "title": "Friesestraatweg 149-27",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-27/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-149-26": {
+      "title": "Friesestraatweg 149-26",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-26/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-149-25": {
+      "title": "Friesestraatweg 149-25",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-25/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€115,00",
+      "surface": "65,00m²"
+    },
+    "friesestraatweg-149-24": {
+      "title": "Friesestraatweg 149-24",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-24/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "71,00m²"
+    },
+    "friesestraatweg-149-23": {
+      "title": "Friesestraatweg 149-23",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-23/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-149-22": {
+      "title": "Friesestraatweg 149-22",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-22/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-149-21": {
+      "title": "Friesestraatweg 149-21",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-21/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-149-20": {
+      "title": "Friesestraatweg 149-20",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-19": {
+      "title": "Friesestraatweg 149-19",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-19/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-18": {
+      "title": "Friesestraatweg 149-18",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-18/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-17": {
+      "title": "Friesestraatweg 149-17",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-16": {
+      "title": "Friesestraatweg 149-16",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "34,00m²"
+    },
+    "friesestraatweg-149-15": {
+      "title": "Friesestraatweg 149-15",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-15/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-14": {
+      "title": "Friesestraatweg 149-14",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-13": {
+      "title": "Friesestraatweg 149-13",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-149-12": {
+      "title": "Friesestraatweg 149-12",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "67,00m²"
+    },
+    "friesestraatweg-149-11": {
+      "title": "Friesestraatweg 149-11",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-149-10": {
+      "title": "Friesestraatweg 149-10",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "52,00m²"
+    },
+    "friesestraatweg-149-09": {
+      "title": "Friesestraatweg 149-09",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-149-08": {
+      "title": "Friesestraatweg 149-08",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-149-07": {
+      "title": "Friesestraatweg 149-07",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-06": {
+      "title": "Friesestraatweg 149-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-05": {
+      "title": "Friesestraatweg 149-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-04": {
+      "title": "Friesestraatweg 149-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-03": {
+      "title": "Friesestraatweg 149-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-02": {
+      "title": "Friesestraatweg 149-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-01": {
+      "title": "Friesestraatweg 149-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-00": {
+      "title": "Friesestraatweg 149-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-147-52": {
+      "title": "Friesestraatweg 147-52",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-52/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "56,00m²"
+    },
+    "friesestraatweg-147-51": {
+      "title": "Friesestraatweg 147-51",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-51/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-147-50": {
+      "title": "Friesestraatweg 147-50",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-50/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-147-49": {
+      "title": "Friesestraatweg 147-49",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-49/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-147-48": {
+      "title": "Friesestraatweg 147-48",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-48/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-147-47": {
+      "title": "Friesestraatweg 147-47",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-47/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-147-46": {
+      "title": "Friesestraatweg 147-46",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-46/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-147-44": {
+      "title": "Friesestraatweg 147-44",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-44/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-147-43": {
+      "title": "Friesestraatweg 147-43",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-43/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-42": {
+      "title": "Friesestraatweg 147-42",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-42/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-41": {
+      "title": "Friesestraatweg 147-41",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-41/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-40": {
+      "title": "Friesestraatweg 147-40",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-40/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-39": {
+      "title": "Friesestraatweg 147-39",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-39/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "45,00m²"
+    },
+    "friesestraatweg-147-38": {
+      "title": "Friesestraatweg 147-38",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-38/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-147-37": {
+      "title": "Friesestraatweg 147-37",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-37/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-147-36": {
+      "title": "Friesestraatweg 147-36",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-36/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-147-34": {
+      "title": "Friesestraatweg 147-34",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-34/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-147-33": {
+      "title": "Friesestraatweg 147-33",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-33/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-32": {
+      "title": "Friesestraatweg 147-32",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-32/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-31": {
+      "title": "Friesestraatweg 147-31",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-31/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-30": {
+      "title": "Friesestraatweg 147-30",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-30/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-29": {
+      "title": "Friesestraatweg 147-29",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-29/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-28": {
+      "title": "Friesestraatweg 147-28",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-28/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "51,00m²"
+    },
+    "friesestraatweg-147-27": {
+      "title": "Friesestraatweg 147-27",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-27/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-147-26": {
+      "title": "Friesestraatweg 147-26",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-26/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-147-25": {
+      "title": "Friesestraatweg 147-25",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-25/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-147-24": {
+      "title": "Friesestraatweg 147-24",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-24/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "58,00m²"
+    },
+    "friesestraatweg-147-23": {
+      "title": "Friesestraatweg 147-23",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-23/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-147-22": {
+      "title": "Friesestraatweg 147-22",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-22/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-147-21": {
+      "title": "Friesestraatweg 147-21",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-21/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-147-20": {
+      "title": "Friesestraatweg 147-20",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-147-19": {
+      "title": "Friesestraatweg 147-19",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-19/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-18": {
+      "title": "Friesestraatweg 147-18",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-18/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-17": {
+      "title": "Friesestraatweg 147-17",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-16": {
+      "title": "Friesestraatweg 147-16",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-15": {
+      "title": "Friesestraatweg 147-15",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-15/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "34,00m²"
+    },
+    "friesestraatweg-147-14": {
+      "title": "Friesestraatweg 147-14",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-13": {
+      "title": "Friesestraatweg 147-13",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-12": {
+      "title": "Friesestraatweg 147-12",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-11": {
+      "title": "Friesestraatweg 147-11",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "75,00m²"
+    },
+    "friesestraatweg-147-10": {
+      "title": "Friesestraatweg 147-10",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "49,00m²"
+    },
+    "friesestraatweg-147-09": {
+      "title": "Friesestraatweg 147-09",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "52,00m²"
+    },
+    "friesestraatweg-147-08": {
+      "title": "Friesestraatweg 147-08",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-147-07": {
+      "title": "Friesestraatweg 147-07",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-147-06": {
+      "title": "Friesestraatweg 147-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-05": {
+      "title": "Friesestraatweg 147-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-04": {
+      "title": "Friesestraatweg 147-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-147-03": {
+      "title": "Friesestraatweg 147-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-02": {
+      "title": "Friesestraatweg 147-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-01": {
+      "title": "Friesestraatweg 147-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-147-00": {
+      "title": "Friesestraatweg 147-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "53,00m²"
+    },
+    "friesestraatweg-145-22": {
+      "title": "Friesestraatweg 145-22",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-22/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "51,00m²"
+    },
+    "friesestraatweg-145-21": {
+      "title": "Friesestraatweg 145-21",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-21/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "51,00m²"
+    },
+    "friesestraatweg-145-20": {
+      "title": "Friesestraatweg 145-20",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "friesestraatweg-145-18": {
+      "title": "Friesestraatweg 145-18",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-18/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-145-17": {
+      "title": "Friesestraatweg 145-17",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-145-16": {
+      "title": "Friesestraatweg 145-16",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-145-15": {
+      "title": "Friesestraatweg 145-15",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-15/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-145-14": {
+      "title": "Friesestraatweg 145-14",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-145-13": {
+      "title": "Friesestraatweg 145-13",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "37,00m²"
+    },
+    "friesestraatweg-145-11": {
+      "title": "Friesestraatweg 145-11",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "66,00m²"
+    },
+    "friesestraatweg-145-10": {
+      "title": "Friesestraatweg 145-10",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "51,00m²"
+    },
+    "friesestraatweg-145-09": {
+      "title": "Friesestraatweg 145-09",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "50,00m²"
+    },
+    "friesestraatweg-145-08": {
+      "title": "Friesestraatweg 145-08",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "47,00m²"
+    },
+    "friesestraatweg-145-07": {
+      "title": "Friesestraatweg 145-07",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€95,00",
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-145-06": {
+      "title": "Friesestraatweg 145-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-145-05": {
+      "title": "Friesestraatweg 145-05",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "33,00m²"
+    },
+    "friesestraatweg-145-04": {
+      "title": "Friesestraatweg 145-04",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-145-03": {
+      "title": "Friesestraatweg 145-03",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-145-02": {
+      "title": "Friesestraatweg 145-02",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€90,00",
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-145-01": {
+      "title": "Friesestraatweg 145-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-145-00": {
+      "title": "Friesestraatweg 145-00",
+      "url": "https://woldringverhuur.nl/friesestraatweg-145-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "37,00m²"
+    },
+    "soephuisstraatje-18-33": {
+      "title": "Soephuisstraatje 18-33",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-33/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€187,00",
+      "surface": "27,00m²"
+    },
+    "soephuisstraatje-18-32": {
+      "title": "Soephuisstraatje 18-32",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-32/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "21,00m²"
+    },
+    "soephuisstraatje-18-31": {
+      "title": "Soephuisstraatje 18-31",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-31/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "20,00m²"
+    },
+    "soephuisstraatje-18-29": {
+      "title": "Soephuisstraatje 18-29",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-29/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "21,00m²"
+    },
+    "soephuisstraatje-18-27": {
+      "title": "Soephuisstraatje 18-27",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-27/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "30,00m²"
+    },
+    "soephuisstraatje-18-26": {
+      "title": "Soephuisstraatje 18-26",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-26/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "70,00m²"
+    },
+    "soephuisstraatje-18-25": {
+      "title": "Soephuisstraatje 18-25",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-25/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "75,00m²"
+    },
+    "soephuisstraatje-18-23": {
+      "title": "Soephuisstraatje 18-23",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-23/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "84,00m²"
+    },
+    "soephuisstraatje-18-22": {
+      "title": "Soephuisstraatje 18-22",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-22/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€205,00",
+      "surface": "92,00m²"
+    },
+    "soephuisstraatje-18-28": {
+      "title": "Soephuisstraatje 18-28",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-28/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€173,69",
+      "surface": "20,00m²"
+    },
+    "soephuisstraatje-18-18": {
+      "title": "Soephuisstraatje 18-18",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-18/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€186,31",
+      "surface": "32,00m²"
+    },
+    "soephuisstraatje-18-17": {
+      "title": "Soephuisstraatje 18-17",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "28,00m²"
+    },
+    "soephuisstraatje-18-15": {
+      "title": "Soephuisstraatje 18-15",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-15/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "27,00m²"
+    },
+    "soephuisstraatje-18-14": {
+      "title": "Soephuisstraatje 18-14",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "28,00m²"
+    },
+    "soephuisstraatje-18-10": {
+      "title": "Soephuisstraatje 18-10",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "soephuisstraatje-18-11": {
+      "title": "Soephuisstraatje 18-11",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "30,00m²"
+    },
+    "soephuisstraatje-18-08": {
+      "title": "Soephuisstraatje 18-08",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "29,00m²"
+    },
+    "soephuisstraatje-18-07": {
+      "title": "Soephuisstraatje 18-07",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "26,00m²"
+    },
+    "soephuisstraatje-18-05": {
+      "title": "Soephuisstraatje 18-05",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "27,00m²"
+    },
+    "soephuisstraatje-13-02": {
+      "title": "Soephuisstraatje 13-02",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-13-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "29,00m²"
+    },
+    "oosterstraat-19a-19": {
+      "title": "Oosterstraat 19A-19",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-19/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "oosterstraat-19a-17": {
+      "title": "Oosterstraat 19A-17",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€140,00",
+      "surface": "28,00m²"
+    },
+    "oosterstraat-19a-16": {
+      "title": "Oosterstraat 19A-16",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "28,00m²"
+    },
+    "oosterstraat-19a-15": {
+      "title": "Oosterstraat 19A-15",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-15/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "26,00m²"
+    },
+    "oosterstraat-19a-14": {
+      "title": "Oosterstraat 19A-14",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€159,04",
+      "surface": "31,00m²"
+    },
+    "oosterstraat-19a-13": {
+      "title": "Oosterstraat 19A-13",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "oosterstraat-19a-12": {
+      "title": "Oosterstraat 19A-12",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€155,00",
+      "surface": "29,00m²"
+    },
+    "oosterstraat-19a-11": {
+      "title": "Oosterstraat 19A-11",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€170,00",
+      "surface": "25,00m²"
+    },
+    "oosterstraat-19a-09": {
+      "title": "Oosterstraat 19A-09",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "41,00m²"
+    },
+    "oosterstraat-19a-08": {
+      "title": "Oosterstraat 19A-08",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "30,00m²"
+    },
+    "oosterstraat-19a-07": {
+      "title": "Oosterstraat 19A-07",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "25,00m²"
+    },
+    "oosterstraat-19a-06": {
+      "title": "Oosterstraat 19A-06",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "22,00m²"
+    },
+    "oosterstraat-19a-05": {
+      "title": "Oosterstraat 19A-05",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "25,00m²"
+    },
+    "oosterstraat-19a-04": {
+      "title": "Oosterstraat 19A-04",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "28,00m²"
+    },
+    "haddingestraat-35-e": {
+      "title": "Haddingestraat 35-E",
+      "url": "https://woldringverhuur.nl/haddingestraat-35-e/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "40,00m²"
+    },
+    "haddingestraat-35-d": {
+      "title": "Haddingestraat 35-D",
+      "url": "https://woldringverhuur.nl/haddingestraat-35-d/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "43,00m²"
+    },
+    "haddingestraat-35-c": {
+      "title": "Haddingestraat 35-C",
+      "url": "https://woldringverhuur.nl/haddingestraat-35-c/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "40,00m²"
+    },
+    "haddingestraat-35-b": {
+      "title": "Haddingestraat 35-B",
+      "url": "https://woldringverhuur.nl/haddingestraat-35-b/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "43,00m²"
+    },
+    "gelkingestraat-3-13": {
+      "title": "Gelkingestraat 3-13",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€183,72",
+      "surface": "24,00m²"
+    },
+    "gelkingestraat-3-12": {
+      "title": "Gelkingestraat 3-12",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "28,00m²"
+    },
+    "gelkingestraat-3-10": {
+      "title": "Gelkingestraat 3-10",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "22,00m²"
+    },
+    "gelkingestraat-3-11": {
+      "title": "Gelkingestraat 3-11",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "26,00m²"
+    },
+    "gelkingestraat-3-09": {
+      "title": "Gelkingestraat 3-09",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "29,00m²"
+    },
+    "gelkingestraat-3-08": {
+      "title": "Gelkingestraat 3-08",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "25,00m²"
+    },
+    "gelkingestraat-3-07": {
+      "title": "Gelkingestraat 3-07",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€184,70",
+      "surface": "26,00m²"
+    },
+    "gelkingestraat-3-06": {
+      "title": "Gelkingestraat 3-06",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "28,00m²"
+    },
+    "gelkingestraat-3-05": {
+      "title": "Gelkingestraat 3-05",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€173,16",
+      "surface": "26,00m²"
+    },
+    "gelkingestraat-3-04": {
+      "title": "Gelkingestraat 3-04",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "24,00m²"
+    },
+    "soephuisstraatje-18-02": {
+      "title": "Soephuisstraatje 18-02",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "24,00m²"
+    },
+    "gelkingestraat-3-02": {
+      "title": "Gelkingestraat 3-02",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "29,00m²"
+    },
+    "gelkingestraat-3-03": {
+      "title": "Gelkingestraat 3-03",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "28,00m²"
+    },
+    "soephuisstraatje-18-04": {
+      "title": "Soephuisstraatje 18-04",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "soephuisstraatje-18-34": {
+      "title": "Soephuisstraatje 18-34",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-34/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€170,00",
+      "surface": "31,00m²"
+    },
+    "haddingestraat-35-f": {
+      "title": "Haddingestraat 35-F",
+      "url": "https://woldringverhuur.nl/haddingestraat-35-f/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "45,00m²"
+    },
+    "gelkingestraat-3-14": {
+      "title": "Gelkingestraat 3-14",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "30,00m²"
+    },
+    "soephuisstraatje-18-09": {
+      "title": "Soephuisstraatje 18-09",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "30,00m²"
+    },
+    "soephuisstraatje-18-01": {
+      "title": "Soephuisstraatje 18-01",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "58,00m²"
+    },
+    "soephuisstraatje-13-03": {
+      "title": "Soephuisstraatje 13-03",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-13-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€181,49",
+      "surface": "30,00m²"
+    },
+    "soephuisstraatje-13-01": {
+      "title": "Soephuisstraatje 13-01",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-13-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "53,00m²"
+    },
+    "soephuisstraatje-10-c": {
+      "title": "Soephuisstraatje 10-C",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-10-c/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "102,00m²"
+    },
+    "soephuisstraatje-10-b": {
+      "title": "Soephuisstraatje 10-B",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-10-b/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "105,00m²"
+    },
+    "soephuisstraatje-10-a": {
+      "title": "Soephuisstraatje 10-A",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-10-a/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "95,00m²"
+    },
+    "oosterstraat-19a-20": {
+      "title": "Oosterstraat 19A-20",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€166,82",
+      "surface": "42,00m²"
+    },
+    "oosterstraat-19a-01": {
+      "title": "Oosterstraat 19A-01",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€170,00",
+      "surface": "29,00m²"
+    },
+    "jozef-israelsstraat-14-08": {
+      "title": "Jozef Israëlsstraat 14-08",
+      "url": "https://woldringverhuur.nl/jozef-israelsstraat-14-08/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "34,00m²"
+    },
+    "jozef-israelsstraat-14-06": {
+      "title": "Jozef Israëlsstraat 14-06",
+      "url": "https://woldringverhuur.nl/jozef-israelsstraat-14-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "30,00m²"
+    },
+    "jozef-israelsstraat-14-05": {
+      "title": "Jozef Israëlsstraat 14-05",
+      "url": "https://woldringverhuur.nl/jozef-israelsstraat-14-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€170,82",
+      "surface": "30,00m²"
+    },
+    "jozef-israelsstraat-14-03": {
+      "title": "Jozef Israëlsstraat 14-03",
+      "url": "https://woldringverhuur.nl/jozef-israelsstraat-14-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "31,00m²"
+    },
+    "haddingestraat-35-a": {
+      "title": "Haddingestraat 35-A",
+      "url": "https://woldringverhuur.nl/haddingestraat-35-a/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€80,25",
+      "surface": "37,00m²"
+    },
+    "haddingestraat-35": {
+      "title": "Haddingestraat 35",
+      "url": "https://woldringverhuur.nl/haddingestraat-35/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "42,00m²"
+    },
+    "hereweg-16-16a-16b-16c": {
+      "title": "Hereweg 16-+ 16A. 16B. 16C.",
+      "url": "https://woldringverhuur.nl/hereweg-16-16a-16b-16c/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "120,00m²"
+    },
+    "jozef-israelsstraat-14-01": {
+      "title": "Jozef Israëlsstraat 14-01",
+      "url": "https://woldringverhuur.nl/jozef-israelsstraat-14-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "35,00m²"
+    },
+    "gelkingestraat-3-01": {
+      "title": "Gelkingestraat 3-01",
+      "url": "https://woldringverhuur.nl/gelkingestraat-3-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "27,00m²"
+    },
+    "schoolholm-26-18": {
+      "title": "Schoolholm 26-18",
+      "url": "https://woldringverhuur.nl/schoolholm-26-18/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€132,50",
+      "surface": "12,00m²"
+    },
+    "schoolholm-26-15": {
+      "title": "Schoolholm 26-15",
+      "url": "https://woldringverhuur.nl/schoolholm-26-15/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "18,00m²"
+    },
+    "friesestraatweg-193": {
+      "title": "Friesestraatweg 193",
+      "url": "https://woldringverhuur.nl/friesestraatweg-193/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "110,00m²"
+    },
+    "schoolholm-26-20": {
+      "title": "Schoolholm 26-20",
+      "url": "https://woldringverhuur.nl/schoolholm-26-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "22,00m²"
+    },
+    "schoolholm-26-09": {
+      "title": "Schoolholm 26-09",
+      "url": "https://woldringverhuur.nl/schoolholm-26-09/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "26,00m²"
+    },
+    "jozef-israelsstraat-14-02": {
+      "title": "Jozef Israëlsstraat 14-02",
+      "url": "https://woldringverhuur.nl/jozef-israelsstraat-14-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "jozef-israelsstraat-14-04": {
+      "title": "Jozef Israëlsstraat 14-04",
+      "url": "https://woldringverhuur.nl/jozef-israelsstraat-14-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "43,00m²"
+    },
+    "schoolholm-26-24": {
+      "title": "Schoolholm 26-24",
+      "url": "https://woldringverhuur.nl/schoolholm-26-24/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "30,00m²"
+    },
+    "soephuisstraatje-13-00": {
+      "title": "Soephuisstraatje 13",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-13-00/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "46,00m²"
+    },
+    "haddingestraat-37-k": {
+      "title": "Haddingestraat 37-K",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-k/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "27,00m²"
+    },
+    "haddingestraat-37-h": {
+      "title": "Haddingestraat 37-H",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-h/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€69,08",
+      "surface": "37,00m²"
+    },
+    "haddingestraat-37-g": {
+      "title": "Haddingestraat 37-G",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-g/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€85,00",
+      "surface": "41,00m²"
+    },
+    "haddingestraat-37-f": {
+      "title": "Haddingestraat 37-F",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-f/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "53,00m²"
+    },
+    "haddingestraat-37-e": {
+      "title": "Haddingestraat 37-E",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-e/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€88,33",
+      "surface": "50,00m²"
+    },
+    "haddingestraat-37-d": {
+      "title": "Haddingestraat 37-D",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-d/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€83,84",
+      "surface": "60,00m²"
+    },
+    "haddingestraat-37-c": {
+      "title": "Haddingestraat 37-C",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-c/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "50,00m²"
+    },
+    "haddingestraat-37-b": {
+      "title": "Haddingestraat 37-B",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-b/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "62,00m²"
+    },
+    "haddingestraat-37": {
+      "title": "Haddingestraat 37–",
+      "url": "https://woldringverhuur.nl/haddingestraat-37/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€70,27",
+      "surface": "44,00m²"
+    },
+    "schoolholm-26-10": {
+      "title": "Schoolholm 26-10",
+      "url": "https://woldringverhuur.nl/schoolholm-26-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "21,00m²"
+    },
+    "schoolholm-26-05": {
+      "title": "Schoolholm 26-05",
+      "url": "https://woldringverhuur.nl/schoolholm-26-05/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "28,00m²"
+    },
+    "haddingestraat-37-a": {
+      "title": "Haddingestraat 37-A",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-a/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "haddingestraat-39-c": {
+      "title": "Haddingestraat 39-C",
+      "url": "https://woldringverhuur.nl/haddingestraat-39-c/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "32,00m²"
+    },
+    "haddingestraat-39-b": {
+      "title": "Haddingestraat 39-B",
+      "url": "https://woldringverhuur.nl/haddingestraat-39-b/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€80,00",
+      "surface": "34,00m²"
+    },
+    "haddingestraat-39-a": {
+      "title": "Haddingestraat 39-A",
+      "url": "https://woldringverhuur.nl/haddingestraat-39-a/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€65,67",
+      "surface": "33,00m²"
+    },
+    "schoolholm-26-12": {
+      "title": "Schoolholm 26-12",
+      "url": "https://woldringverhuur.nl/schoolholm-26-12/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "29,00m²"
+    },
+    "schoolholm-26-14": {
+      "title": "Schoolholm 26-14",
+      "url": "https://woldringverhuur.nl/schoolholm-26-14/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "25,00m²"
+    },
+    "oosterstraat-19a-22": {
+      "title": "Oosterstraat 19A-22",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-22/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "64,00m²"
+    },
+    "oosterstraat-19a-21": {
+      "title": "Oosterstraat 19A-21",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-21/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "41,00m²"
+    },
+    "schoolholm-26-16": {
+      "title": "Schoolholm 26-16",
+      "url": "https://woldringverhuur.nl/schoolholm-26-16/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "15,00m²"
+    },
+    "schoolholm-26-02": {
+      "title": "Schoolholm 26-02",
+      "url": "https://woldringverhuur.nl/schoolholm-26-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "31,00m²"
+    },
+    "schoolholm-26-01": {
+      "title": "Schoolholm 26-01",
+      "url": "https://woldringverhuur.nl/schoolholm-26-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "22,00m²"
+    },
+    "schoolholm-26-07": {
+      "title": "Schoolholm 26-07",
+      "url": "https://woldringverhuur.nl/schoolholm-26-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "37,00m²"
+    },
+    "schoolholm-26-23": {
+      "title": "Schoolholm 26-23",
+      "url": "https://woldringverhuur.nl/schoolholm-26-23/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "21,00m²"
+    },
+    "schoolholm-26-04": {
+      "title": "Schoolholm 26-04",
+      "url": "https://woldringverhuur.nl/schoolholm-26-04/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "35,00m²"
+    },
+    "schoolholm-26-22": {
+      "title": "Schoolholm 26-22",
+      "url": "https://woldringverhuur.nl/schoolholm-26-22/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "22,00m²"
+    },
+    "havenstraat-5-d": {
+      "title": "Havenstraat 5-D",
+      "url": "https://woldringverhuur.nl/havenstraat-5-d/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "36,00m²"
+    },
+    "havenstraat-5-c": {
+      "title": "Havenstraat 5-C",
+      "url": "https://woldringverhuur.nl/havenstraat-5-c/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "37,00m²"
+    },
+    "havenstraat-5-b": {
+      "title": "Havenstraat 5-B",
+      "url": "https://woldringverhuur.nl/havenstraat-5-b/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "40,00m²"
+    },
+    "havenstraat-5-a": {
+      "title": "Havenstraat 5-A",
+      "url": "https://woldringverhuur.nl/havenstraat-5-a/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€85,00",
+      "surface": "40,00m²"
+    },
+    "schoolholm-26-13": {
+      "title": "Schoolholm 26-13",
+      "url": "https://woldringverhuur.nl/schoolholm-26-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "25,00m²"
+    },
+    "soephuisstraatje-18-19": {
+      "title": "Soephuisstraatje 18-19",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-19/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€170,69",
+      "surface": "27,00m²"
+    },
+    "soephuisstraatje-18-13": {
+      "title": "Soephuisstraatje 18-13",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-13/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "26,00m²"
+    },
+    "soephuisstraatje-18-06": {
+      "title": "Soephuisstraatje 18-06",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "27,00m²"
+    },
+    "schoolholm-26-17": {
+      "title": "Schoolholm 26-17",
+      "url": "https://woldringverhuur.nl/schoolholm-26-17/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "23,00m²"
+    },
+    "schoolholm-26-03": {
+      "title": "Schoolholm 26-03",
+      "url": "https://woldringverhuur.nl/schoolholm-26-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "26,00m²"
+    },
+    "schoolholm-26-11": {
+      "title": "Schoolholm 26-11",
+      "url": "https://woldringverhuur.nl/schoolholm-26-11/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "20,00m²"
+    },
+    "schoolholm-26-06": {
+      "title": "Schoolholm 26-06",
+      "url": "https://woldringverhuur.nl/schoolholm-26-06/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "33,00m²"
+    },
+    "soephuisstraatje-18-21": {
+      "title": "Soephuisstraatje 18-21",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-21/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€181,89",
+      "surface": "27,00m²"
+    },
+    "soephuisstraatje-18-03": {
+      "title": "Soephuisstraatje 18-03",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "30,00m²"
+    },
+    "oosterstraat-19a-10": {
+      "title": "Oosterstraat 19A-10",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-10/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "40,00m²"
+    },
+    "oosterstraat-19a-02": {
+      "title": "Oosterstraat 19A-02",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-02/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€190,00",
+      "surface": "40,00m²"
+    },
+    "soephuisstraatje-18-20": {
+      "title": "Soephuisstraatje 18-20",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": null,
+      "surface": "23,00m²"
+    }
+  }
+}
