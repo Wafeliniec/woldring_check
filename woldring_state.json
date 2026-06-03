@@ -2,15 +2,23 @@
   "known_active_ids": [
     "friesestraatweg-145-23",
     "friesestraatweg-147-35",
+    "friesestraatweg-149-25",
     "friesestraatweg-149-47",
     "friesestraatweg-157-35",
-    "friesestraatweg-159-29",
     "friesestraatweg-163-03",
     "friesestraatweg-163-15",
     "friesestraatweg-173-01",
     "schoolholm-26-21"
   ],
   "last_seen": {
+    "friesestraatweg-149-25": {
+      "title": "Friesestraatweg 149-25",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-25/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-07-2026",
+      "price": "€1.484,00 per maand",
+      "surface": "65,00m²"
+    },
     "schoolholm-26-21": {
       "title": "Schoolholm 26-21",
       "url": "https://woldringverhuur.nl/schoolholm-26-21/",
@@ -34,14 +42,6 @@
       "availability": "Beschikbaar per: 16-07-2026",
       "price": "€1.104,46 per maand",
       "surface": "49,00m²"
-    },
-    "friesestraatweg-159-29": {
-      "title": "Friesestraatweg 159-29",
-      "url": "https://woldringverhuur.nl/friesestraatweg-159-29/",
-      "available": true,
-      "availability": "Per direct beschikbaar",
-      "price": "€1.450,00 per maand",
-      "surface": "79,00m²"
     },
     "friesestraatweg-163-15": {
       "title": "Friesestraatweg 163-15",
@@ -874,6 +874,14 @@
       "availability": "Niet beschikbaar",
       "price": null,
       "surface": "71,00m²"
+    },
+    "friesestraatweg-159-29": {
+      "title": "Friesestraatweg 159-29",
+      "url": "https://woldringverhuur.nl/friesestraatweg-159-29/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "79,00m²"
     },
     "friesestraatweg-159-28": {
       "title": "Friesestraatweg 159-28",
@@ -2842,14 +2850,6 @@
       "availability": "Niet beschikbaar",
       "price": null,
       "surface": "48,00m²"
-    },
-    "friesestraatweg-149-25": {
-      "title": "Friesestraatweg 149-25",
-      "url": "https://woldringverhuur.nl/friesestraatweg-149-25/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": "€115,00",
-      "surface": "65,00m²"
     },
     "friesestraatweg-149-24": {
       "title": "Friesestraatweg 149-24",
