@@ -13,6 +13,8 @@
     "friesestraatweg-157-35",
     "friesestraatweg-163-03",
     "friesestraatweg-163-15",
+    "haddingestraat-37-f",
+    "haddingestraat-37-g",
     "schoolholm-26-21"
   ],
   "last_seen": {
@@ -79,6 +81,22 @@
       "availability": "Beschikbaar per: 01-07-2026",
       "price": "€987,78 per maand",
       "surface": "32,00m²"
+    },
+    "haddingestraat-37-f": {
+      "title": "Haddingestraat 37-F",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-f/",
+      "available": true,
+      "availability": "Beschikbaar per: 16-07-2026",
+      "price": "€1.174,14 per maand",
+      "surface": "53,00m²"
+    },
+    "haddingestraat-37-g": {
+      "title": "Haddingestraat 37-G",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-g/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-07-2026",
+      "price": "€1.035,81 per maand",
+      "surface": "41,00m²"
     },
     "schoolholm-26-21": {
       "title": "Schoolholm 26-21",
@@ -4303,22 +4321,6 @@
       "availability": "Niet beschikbaar",
       "price": "€69,08",
       "surface": "37,00m²"
-    },
-    "haddingestraat-37-g": {
-      "title": "Haddingestraat 37-G",
-      "url": "https://woldringverhuur.nl/haddingestraat-37-g/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": "€85,00",
-      "surface": "41,00m²"
-    },
-    "haddingestraat-37-f": {
-      "title": "Haddingestraat 37-F",
-      "url": "https://woldringverhuur.nl/haddingestraat-37-f/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": null,
-      "surface": "53,00m²"
     },
     "haddingestraat-37-e": {
       "title": "Haddingestraat 37-E",
