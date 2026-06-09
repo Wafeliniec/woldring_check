@@ -245,14 +245,6 @@
       "price": "€76,65",
       "surface": "26,00m²"
     },
-    "haddingestraat-39": {
-      "title": "Haddingestraat 39–",
-      "url": "https://woldringverhuur.nl/haddingestraat-39/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": "€58,58",
-      "surface": "33,00m²"
-    },
     "soephuisstraatje-18-24": {
       "title": "Soephuisstraatje 18-24",
       "url": "https://woldringverhuur.nl/soephuisstraatje-18-24/",
@@ -269,6 +261,14 @@
       "price": "€166,48",
       "surface": "19,00m²"
     },
+    "haddingestraat-39": {
+      "title": "Haddingestraat 39–",
+      "url": "https://woldringverhuur.nl/haddingestraat-39/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€58,58",
+      "surface": "33,00m²"
+    },
     "jozef-israelsstraat-14-07": {
       "title": "Jozef Israëlsstraat 14-07",
       "url": "https://woldringverhuur.nl/jozef-israelsstraat-14-07/",
@@ -277,14 +277,6 @@
       "price": "€187,13",
       "surface": "31,00m²"
     },
-    "oosterstraat-19a-03": {
-      "title": "Oosterstraat 19A-03",
-      "url": "https://woldringverhuur.nl/oosterstraat-19a-03/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": "€173,34",
-      "surface": "26,00m²"
-    },
     "oosterstraat-19a-18": {
       "title": "Oosterstraat 19A-18",
       "url": "https://woldringverhuur.nl/oosterstraat-19a-18/",
@@ -292,6 +284,14 @@
       "availability": "Niet beschikbaar",
       "price": "€153,09",
       "surface": "25,00m²"
+    },
+    "oosterstraat-19a-03": {
+      "title": "Oosterstraat 19A-03",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-03/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€173,34",
+      "surface": "26,00m²"
     },
     "soephuisstraatje-18-16": {
       "title": "Soephuisstraatje 18-16",
