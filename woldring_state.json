@@ -21,30 +21,6 @@
     "soephuisstraatje-13-03"
   ],
   "last_seen": {
-    "friesestraatweg-165-06": {
-      "title": "Friesestraatweg 165-06",
-      "url": "https://woldringverhuur.nl/friesestraatweg-165-06/",
-      "available": true,
-      "availability": "Beschikbaar per: 01-07-2026",
-      "price": "€946,61 per maand",
-      "surface": "32,00m²"
-    },
-    "friesestraatweg-147-27": {
-      "title": "Friesestraatweg 147-27",
-      "url": "https://woldringverhuur.nl/friesestraatweg-147-27/",
-      "available": true,
-      "availability": "Beschikbaar per: 01-07-2026",
-      "price": "€1.097,61 per maand",
-      "surface": "48,00m²"
-    },
-    "haddingestraat-37-f": {
-      "title": "Haddingestraat 37-F",
-      "url": "https://woldringverhuur.nl/haddingestraat-37-f/",
-      "available": true,
-      "availability": "Beschikbaar per: 16-07-2026",
-      "price": "€1.174,14 per maand",
-      "surface": "53,00m²"
-    },
     "soephuisstraatje-13-03": {
       "title": "Soephuisstraatje 13-03",
       "url": "https://woldringverhuur.nl/soephuisstraatje-13-03/",
@@ -61,12 +37,28 @@
       "price": "€1.049,10 per maand",
       "surface": "22,00m²"
     },
+    "friesestraatweg-165-06": {
+      "title": "Friesestraatweg 165-06",
+      "url": "https://woldringverhuur.nl/friesestraatweg-165-06/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-07-2026",
+      "price": "€946,61 per maand",
+      "surface": "32,00m²"
+    },
     "friesestraatweg-145-23": {
       "title": "Friesestraatweg 145-23",
       "url": "https://woldringverhuur.nl/friesestraatweg-145-23/",
       "available": true,
       "availability": "Per direct beschikbaar",
       "price": "€1.166,27 per maand",
+      "surface": "48,00m²"
+    },
+    "friesestraatweg-147-27": {
+      "title": "Friesestraatweg 147-27",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-27/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-07-2026",
+      "price": "€1.097,61 per maand",
       "surface": "48,00m²"
     },
     "friesestraatweg-149-47": {
@@ -172,6 +164,14 @@
       "availability": "Beschikbaar per: 01-07-2026",
       "price": "€987,78 per maand",
       "surface": "32,00m²"
+    },
+    "haddingestraat-37-f": {
+      "title": "Haddingestraat 37-F",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-f/",
+      "available": true,
+      "availability": "Beschikbaar per: 16-07-2026",
+      "price": "€1.174,14 per maand",
+      "surface": "53,00m²"
     },
     "haddingestraat-37-g": {
       "title": "Haddingestraat 37-G",
