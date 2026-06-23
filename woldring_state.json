@@ -245,14 +245,6 @@
       "price": "€76,65",
       "surface": "26,00m²"
     },
-    "soephuisstraatje-18-24": {
-      "title": "Soephuisstraatje 18-24",
-      "url": "https://woldringverhuur.nl/soephuisstraatje-18-24/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": "€188,80",
-      "surface": "41,00m²"
-    },
     "schoolholm-26-19": {
       "title": "Schoolholm 26-19",
       "url": "https://woldringverhuur.nl/schoolholm-26-19/",
@@ -300,6 +292,14 @@
       "availability": "Niet beschikbaar",
       "price": "€184,97",
       "surface": "21,00m²"
+    },
+    "soephuisstraatje-18-24": {
+      "title": "Soephuisstraatje 18-24",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-18-24/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€188,80",
+      "surface": "41,00m²"
     },
     "soephuisstraatje-18-12": {
       "title": "Soephuisstraatje 18-12",
