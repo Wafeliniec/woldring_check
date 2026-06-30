@@ -101,14 +101,6 @@
       "price": "€1.104,46 per maand",
       "surface": "49,00m²"
     },
-    "friesestraatweg-153-10": {
-      "title": "Friesestraatweg 153-10",
-      "url": "https://woldringverhuur.nl/friesestraatweg-153-10/",
-      "available": true,
-      "availability": "Beschikbaar per: 01-07-2026",
-      "price": "€1.125,08 per maand",
-      "surface": "52,00m²"
-    },
     "friesestraatweg-155-30": {
       "title": "Friesestraatweg 155-30",
       "url": "https://woldringverhuur.nl/friesestraatweg-155-30/",
@@ -116,6 +108,14 @@
       "availability": "Beschikbaar per: 01-07-2026",
       "price": "€987,78 per maand",
       "surface": "32,00m²"
+    },
+    "friesestraatweg-153-10": {
+      "title": "Friesestraatweg 153-10",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-10/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-07-2026",
+      "price": "€1.125,08 per maand",
+      "surface": "52,00m²"
     },
     "friesestraatweg-145-15": {
       "title": "Friesestraatweg 145-15",
@@ -141,14 +141,6 @@
       "price": "€987,78 per maand",
       "surface": "32,00m²"
     },
-    "friesestraatweg-173-01": {
-      "title": "Friesestraatweg 173-01",
-      "url": "https://woldringverhuur.nl/friesestraatweg-173-01/",
-      "available": true,
-      "availability": "Beschikbaar per: 01-07-2026",
-      "price": "€1.630,00 per maand",
-      "surface": "103,00m²"
-    },
     "friesestraatweg-157-25": {
       "title": "Friesestraatweg 157-25",
       "url": "https://woldringverhuur.nl/friesestraatweg-157-25/",
@@ -156,6 +148,14 @@
       "availability": "Beschikbaar per: 01-07-2026",
       "price": "€987,78 per maand",
       "surface": "32,00m²"
+    },
+    "friesestraatweg-173-01": {
+      "title": "Friesestraatweg 173-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-173-01/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-07-2026",
+      "price": "€1.630,00 per maand",
+      "surface": "103,00m²"
     },
     "schoolholm-26-21": {
       "title": "Schoolholm 26-21",
