@@ -125,14 +125,6 @@
       "price": "€1.035,81 per maand",
       "surface": "32,00m²"
     },
-    "friesestraatweg-157-35": {
-      "title": "Friesestraatweg 157-35",
-      "url": "https://woldringverhuur.nl/friesestraatweg-157-35/",
-      "available": true,
-      "availability": "Per direct beschikbaar",
-      "price": "€1.475,00 per maand",
-      "surface": "68,00m²"
-    },
     "friesestraatweg-163-03": {
       "title": "Friesestraatweg 163-03",
       "url": "https://woldringverhuur.nl/friesestraatweg-163-03/",
@@ -140,6 +132,14 @@
       "availability": "Beschikbaar per: 16-07-2026",
       "price": "€987,78 per maand",
       "surface": "32,00m²"
+    },
+    "friesestraatweg-157-35": {
+      "title": "Friesestraatweg 157-35",
+      "url": "https://woldringverhuur.nl/friesestraatweg-157-35/",
+      "available": true,
+      "availability": "Per direct beschikbaar",
+      "price": "€1.475,00 per maand",
+      "surface": "68,00m²"
     },
     "friesestraatweg-157-25": {
       "title": "Friesestraatweg 157-25",
