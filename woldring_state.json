@@ -18,9 +18,18 @@
     "friesestraatweg-173-01",
     "haddingestraat-37-f",
     "haddingestraat-37-g",
+    "havenstraat-5-c",
     "schoolholm-26-21"
   ],
   "last_seen": {
+    "havenstraat-5-c": {
+      "title": "Havenstraat 5-C",
+      "url": "https://woldringverhuur.nl/havenstraat-5-c/",
+      "available": true,
+      "availability": "Per direct beschikbaar",
+      "price": "€1.102,05 per maand",
+      "surface": "37,00m²"
+    },
     "friesestraatweg-145-23": {
       "title": "Friesestraatweg 145-23",
       "url": "https://woldringverhuur.nl/friesestraatweg-145-23/",
@@ -4508,14 +4517,6 @@
       "availability": "Niet beschikbaar",
       "price": null,
       "surface": "36,00m²"
-    },
-    "havenstraat-5-c": {
-      "title": "Havenstraat 5-C",
-      "url": "https://woldringverhuur.nl/havenstraat-5-c/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": null,
-      "surface": "37,00m²"
     },
     "havenstraat-5-b": {
       "title": "Havenstraat 5-B",
