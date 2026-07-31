@@ -17,6 +17,7 @@
     "friesestraatweg-163-15",
     "friesestraatweg-165-06",
     "friesestraatweg-173-01",
+    "haddingestraat-37-e",
     "haddingestraat-37-f",
     "haddingestraat-37-g",
     "havenstraat-5-c",
@@ -24,6 +25,14 @@
     "soephuisstraatje-13-03"
   ],
   "last_seen": {
+    "haddingestraat-37-e": {
+      "title": "Haddingestraat 37-E",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-e/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-09-2026",
+      "price": "€1.097,61 per maand",
+      "surface": "50,00m²"
+    },
     "friesestraatweg-145-23": {
       "title": "Friesestraatweg 145-23",
       "url": "https://woldringverhuur.nl/friesestraatweg-145-23/",
@@ -4335,14 +4344,6 @@
       "availability": "Niet beschikbaar",
       "price": "€69,08",
       "surface": "37,00m²"
-    },
-    "haddingestraat-37-e": {
-      "title": "Haddingestraat 37-E",
-      "url": "https://woldringverhuur.nl/haddingestraat-37-e/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": "€88,33",
-      "surface": "50,00m²"
     },
     "haddingestraat-37-d": {
       "title": "Haddingestraat 37-D",
