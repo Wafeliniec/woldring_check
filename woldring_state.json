@@ -34,14 +34,6 @@
       "price": "€1.166,27 per maand",
       "surface": "48,00m²"
     },
-    "friesestraatweg-147-27": {
-      "title": "Friesestraatweg 147-27",
-      "url": "https://woldringverhuur.nl/friesestraatweg-147-27/",
-      "available": true,
-      "availability": "Per direct beschikbaar",
-      "price": "€1.097,61 per maand",
-      "surface": "48,00m²"
-    },
     "friesestraatweg-149-47": {
       "title": "Friesestraatweg 149-47",
       "url": "https://woldringverhuur.nl/friesestraatweg-149-47/",
@@ -49,6 +41,14 @@
       "availability": "Per direct beschikbaar",
       "price": "€1.104,46 per maand",
       "surface": "49,00m²"
+    },
+    "friesestraatweg-147-27": {
+      "title": "Friesestraatweg 147-27",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-27/",
+      "available": true,
+      "availability": "Per direct beschikbaar",
+      "price": "€1.097,61 per maand",
+      "surface": "48,00m²"
     },
     "friesestraatweg-153-49": {
       "title": "Friesestraatweg 153-49",
@@ -178,6 +178,14 @@
       "price": "€1.049,10 per maand",
       "surface": "22,00m²"
     },
+    "haddingestraat-37-e": {
+      "title": "Haddingestraat 37-E",
+      "url": "https://woldringverhuur.nl/haddingestraat-37-e/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-09-2026",
+      "price": "€1.152,49 per maand",
+      "surface": "50,00m²"
+    },
     "haddingestraat-37-f": {
       "title": "Haddingestraat 37-F",
       "url": "https://woldringverhuur.nl/haddingestraat-37-f/",
@@ -201,14 +209,6 @@
       "availability": "Per direct beschikbaar",
       "price": "€1.035,81 per maand",
       "surface": "41,00m²"
-    },
-    "haddingestraat-37-e": {
-      "title": "Haddingestraat 37-E",
-      "url": "https://woldringverhuur.nl/haddingestraat-37-e/",
-      "available": true,
-      "availability": "Beschikbaar per: 01-09-2026",
-      "price": "€1.152,49 per maand",
-      "surface": "50,00m²"
     },
     "soephuisstraatje-13-03": {
       "title": "Soephuisstraatje 13-03",
