@@ -22,10 +22,28 @@
     "haddingestraat-37-f",
     "haddingestraat-37-g",
     "havenstraat-5-c",
+    "schoolholm-26-01",
+    "schoolholm-26-09",
     "schoolholm-26-21",
     "soephuisstraatje-13-03"
   ],
   "last_seen": {
+    "schoolholm-26-01": {
+      "title": "Schoolholm 26-01",
+      "url": "https://woldringverhuur.nl/schoolholm-26-01/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-10-2026",
+      "price": "€1.057,01 per maand",
+      "surface": "22,00m²"
+    },
+    "schoolholm-26-09": {
+      "title": "Schoolholm 26-09",
+      "url": "https://woldringverhuur.nl/schoolholm-26-09/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-10-2026",
+      "price": "€1.064,88 per maand",
+      "surface": "26,00m²"
+    },
     "friesestraatweg-145-23": {
       "title": "Friesestraatweg 145-23",
       "url": "https://woldringverhuur.nl/friesestraatweg-145-23/",
@@ -4290,14 +4308,6 @@
       "price": null,
       "surface": "22,00m²"
     },
-    "schoolholm-26-09": {
-      "title": "Schoolholm 26-09",
-      "url": "https://woldringverhuur.nl/schoolholm-26-09/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": null,
-      "surface": "26,00m²"
-    },
     "jozef-israelsstraat-14-02": {
       "title": "Jozef Israëlsstraat 14-02",
       "url": "https://woldringverhuur.nl/jozef-israelsstraat-14-02/",
@@ -4473,14 +4483,6 @@
       "availability": "Niet beschikbaar",
       "price": null,
       "surface": "31,00m²"
-    },
-    "schoolholm-26-01": {
-      "title": "Schoolholm 26-01",
-      "url": "https://woldringverhuur.nl/schoolholm-26-01/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": null,
-      "surface": "22,00m²"
     },
     "schoolholm-26-07": {
       "title": "Schoolholm 26-07",
