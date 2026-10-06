@@ -4,6 +4,7 @@
     "friesestraatweg-145-20",
     "friesestraatweg-145-23",
     "friesestraatweg-147-27",
+    "friesestraatweg-147-33",
     "friesestraatweg-147-35",
     "friesestraatweg-147-47",
     "friesestraatweg-149-25",
@@ -31,6 +32,14 @@
     "soephuisstraatje-13-03"
   ],
   "last_seen": {
+    "friesestraatweg-147-33": {
+      "title": "Friesestraatweg 147-33",
+      "url": "https://woldringverhuur.nl/friesestraatweg-147-33/",
+      "available": true,
+      "availability": "Beschikbaar per: 01-11-2026",
+      "price": "€1.001,50 per maand",
+      "surface": "32,00m²"
+    },
     "friesestraatweg-145-23": {
       "title": "Friesestraatweg 145-23",
       "url": "https://woldringverhuur.nl/friesestraatweg-145-23/",
@@ -3294,14 +3303,6 @@
       "availability": "Niet beschikbaar",
       "price": null,
       "surface": "33,00m²"
-    },
-    "friesestraatweg-147-33": {
-      "title": "Friesestraatweg 147-33",
-      "url": "https://woldringverhuur.nl/friesestraatweg-147-33/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": null,
-      "surface": "32,00m²"
     },
     "friesestraatweg-147-32": {
       "title": "Friesestraatweg 147-32",
