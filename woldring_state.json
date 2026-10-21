@@ -1,18 +1,9 @@
 {
   "known_active_ids": [
-    "friesestraatweg-149-01",
     "friesestraatweg-149-47",
     "oosterstraat-19a-20"
   ],
   "last_seen": {
-    "friesestraatweg-149-01": {
-      "title": "Friesestraatweg 149-01",
-      "url": "https://woldringverhuur.nl/friesestraatweg-149-01/",
-      "available": true,
-      "availability": "Beschikbaar per: 16-11-2026",
-      "price": "€1.008,35 per maand",
-      "surface": "32,00m²"
-    },
     "oosterstraat-19a-20": {
       "title": "Oosterstraat 19A-20",
       "url": "https://woldringverhuur.nl/oosterstraat-19a-20/",
@@ -3043,6 +3034,14 @@
       "available": false,
       "availability": "Niet beschikbaar",
       "price": null,
+      "surface": "32,00m²"
+    },
+    "friesestraatweg-149-01": {
+      "title": "Friesestraatweg 149-01",
+      "url": "https://woldringverhuur.nl/friesestraatweg-149-01/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€85,00",
       "surface": "32,00m²"
     },
     "friesestraatweg-149-00": {
