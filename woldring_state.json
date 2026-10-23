@@ -1,7 +1,7 @@
 {
   "known_active_ids": [
+    "damsterdiep-45",
     "friesestraatweg-149-47",
-    "oosterstraat-19a-20",
     "soephuisstraatje-13-02"
   ],
   "last_seen": {
@@ -12,14 +12,6 @@
       "availability": "Beschikbaar per: 01-12-2026",
       "price": "€835,94 per maand",
       "surface": "29,00m²"
-    },
-    "oosterstraat-19a-20": {
-      "title": "Oosterstraat 19A-20",
-      "url": "https://woldringverhuur.nl/oosterstraat-19a-20/",
-      "available": true,
-      "availability": "Per direct beschikbaar",
-      "price": "€1.175,93 per maand",
-      "surface": "42,00m²"
     },
     "friesestraatweg-149-47": {
       "title": "Friesestraatweg 149-47",
@@ -32,10 +24,18 @@
     "damsterdiep-45": {
       "title": "Damsterdiep 45",
       "url": "https://woldringverhuur.nl/damsterdiep-45/",
-      "available": false,
+      "available": true,
       "availability": "Beschikbaar per: 01-11-2026",
       "price": "€1.138,07 per maand",
       "surface": "67,00m²"
+    },
+    "oosterstraat-19a-20": {
+      "title": "Oosterstraat 19A-20",
+      "url": "https://woldringverhuur.nl/oosterstraat-19a-20/",
+      "available": false,
+      "availability": "Per direct beschikbaar",
+      "price": "€1.175,93 per maand",
+      "surface": "42,00m²"
     },
     "schoolholm-24": {
       "title": "Schoolholm 24",
