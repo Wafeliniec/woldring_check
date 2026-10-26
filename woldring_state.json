@@ -1,6 +1,5 @@
 {
   "known_active_ids": [
-    "damsterdiep-45",
     "friesestraatweg-149-47",
     "soephuisstraatje-13-02"
   ],
@@ -20,14 +19,6 @@
       "availability": "Per direct beschikbaar",
       "price": "€1.104,46 per maand",
       "surface": "49,00m²"
-    },
-    "damsterdiep-45": {
-      "title": "Damsterdiep 45",
-      "url": "https://woldringverhuur.nl/damsterdiep-45/",
-      "available": true,
-      "availability": "Beschikbaar per: 01-11-2026",
-      "price": "€1.138,07 per maand",
-      "surface": "67,00m²"
     },
     "oosterstraat-19a-20": {
       "title": "Oosterstraat 19A-20",
@@ -84,6 +75,14 @@
       "availability": "Niet beschikbaar",
       "price": "€115,00",
       "surface": "65,00m²"
+    },
+    "damsterdiep-45": {
+      "title": "Damsterdiep 45",
+      "url": "https://woldringverhuur.nl/damsterdiep-45/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€61,93",
+      "surface": "67,00m²"
     },
     "friesestraatweg-173-01": {
       "title": "Friesestraatweg 173-01",
