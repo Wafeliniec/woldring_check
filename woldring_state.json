@@ -60,14 +60,6 @@
       "price": "€85,00",
       "surface": "29,00m²"
     },
-    "friesestraatweg-153-20": {
-      "title": "Friesestraatweg 153-20",
-      "url": "https://woldringverhuur.nl/friesestraatweg-153-20/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": "€105,00",
-      "surface": "49,00m²"
-    },
     "friesestraatweg-149-25": {
       "title": "Friesestraatweg 149-25",
       "url": "https://woldringverhuur.nl/friesestraatweg-149-25/",
@@ -139,14 +131,6 @@
       "availability": "Niet beschikbaar",
       "price": "€58,58",
       "surface": "33,00m²"
-    },
-    "jozef-israelsstraat-14-07": {
-      "title": "Jozef Israëlsstraat 14-07",
-      "url": "https://woldringverhuur.nl/jozef-israelsstraat-14-07/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": "€187,13",
-      "surface": "31,00m²"
     },
     "oosterstraat-19a-18": {
       "title": "Oosterstraat 19A-18",
@@ -2027,6 +2011,14 @@
       "availability": "Niet beschikbaar",
       "price": null,
       "surface": "71,00m²"
+    },
+    "friesestraatweg-153-20": {
+      "title": "Friesestraatweg 153-20",
+      "url": "https://woldringverhuur.nl/friesestraatweg-153-20/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€105,00",
+      "surface": "49,00m²"
     },
     "friesestraatweg-153-19": {
       "title": "Friesestraatweg 153-19",
@@ -4155,6 +4147,14 @@
       "availability": "Niet beschikbaar",
       "price": null,
       "surface": "34,00m²"
+    },
+    "jozef-israelsstraat-14-07": {
+      "title": "Jozef Israëlsstraat 14-07",
+      "url": "https://woldringverhuur.nl/jozef-israelsstraat-14-07/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€187,13",
+      "surface": "31,00m²"
     },
     "jozef-israelsstraat-14-06": {
       "title": "Jozef Israëlsstraat 14-06",
