@@ -188,14 +188,6 @@
       "price": "€76,25",
       "surface": "37,00m²"
     },
-    "soephuisstraatje-10-d": {
-      "title": "Soephuisstraatje 10-D",
-      "url": "https://woldringverhuur.nl/soephuisstraatje-10-d/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": "€110,00",
-      "surface": "78,00m²"
-    },
     "damsterdiep-45-b": {
       "title": "Damsterdiep 45-B",
       "url": "https://woldringverhuur.nl/damsterdiep-45-b/",
@@ -4107,6 +4099,14 @@
       "availability": "Niet beschikbaar",
       "price": null,
       "surface": "53,00m²"
+    },
+    "soephuisstraatje-10-d": {
+      "title": "Soephuisstraatje 10-D",
+      "url": "https://woldringverhuur.nl/soephuisstraatje-10-d/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€110,00",
+      "surface": "78,00m²"
     },
     "soephuisstraatje-10-c": {
       "title": "Soephuisstraatje 10-C",
