@@ -68,14 +68,6 @@
       "price": "€115,00",
       "surface": "65,00m²"
     },
-    "damsterdiep-45": {
-      "title": "Damsterdiep 45",
-      "url": "https://woldringverhuur.nl/damsterdiep-45/",
-      "available": false,
-      "availability": "Niet beschikbaar",
-      "price": "€61,93",
-      "surface": "67,00m²"
-    },
     "friesestraatweg-173-01": {
       "title": "Friesestraatweg 173-01",
       "url": "https://woldringverhuur.nl/friesestraatweg-173-01/",
@@ -83,6 +75,14 @@
       "availability": "Niet beschikbaar",
       "price": "€130,00",
       "surface": "103,00m²"
+    },
+    "damsterdiep-45": {
+      "title": "Damsterdiep 45",
+      "url": "https://woldringverhuur.nl/damsterdiep-45/",
+      "available": false,
+      "availability": "Niet beschikbaar",
+      "price": "€61,93",
+      "surface": "67,00m²"
     },
     "schoolholm-26-01": {
       "title": "Schoolholm 26-01",
